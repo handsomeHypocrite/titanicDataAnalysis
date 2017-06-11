@@ -1,0 +1,5 @@
+                                     Name       Sex    Ticket       Cabin          Embarked
+count                                 891       891    891          204             889
+unique                                891       2      681          147             3
+top                                   NA        male   1601         C23 C25 C27     S
+freq                                  1         577    7            4               644
